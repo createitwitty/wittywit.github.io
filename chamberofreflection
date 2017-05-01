@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Chamber of Reflection by Pranshu Chaudhary</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/blog.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">WittyWit</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    
+                    <li>
+                        <a href="#services">Home</a>
+                    </li>
+                    <li>
+                        <a href="#about">About</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Work</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Full Width Image Header -->
+    <header class="header-image">
+        <div class="headline">
+            <div class="container">
+              <h1>Chamber of Reflection</h1>
+              <h2>A Space Installation created using only waste and junk material in 12 hours, over the theme Sadness.</h2>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <hr class="featurette-divider">
+
+        <!-- First Featurette -->
+        <div class="featurette" id="about">
+            <a href="https://vimeo.com/194210941"><img src="assets/img/Chamberwithman.jpg" alt="Kinetic Sculpture" width="501" height="470" class="featurette-image img-responsive pull-right img-circle"></a>
+          <h2 class="featurette-heading">Chamber Of Reflection</h2>
+          <p class="lead">"We were supposed to design a Installation for "Monsoon Fiesta",annual cultural fest of NID. The theme was Sadness, and we were given 24 hours to complete the work,using only junk and found materials."</p>
+          <p>The installation was built by a team of 10 members. We ideated over the theme and cameup with many ideas before boiling it down to self reflection.</p>
+            <p>.</p>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- Second Featurette -->
+        <div class="featurette" id="services">
+            <img src="assets/img/cahmber of reflection.jpg" alt="batman kinetic sculpture" width="300" height="400" class="featurette-image img-responsive pull-left img-thumbnail">
+          <h2 class="featurette-heading">The Concept</h2>
+          <p class="blockquote-reverse lead">...the years run too short and the days too fast. </p>
+          <p> After many iteration and concepts, we finally settled to the concept of a architechtural model that would guide you through and give you an opportunity to self reflect over the thoughts of "What Makes me Sad" and "Who am I". The chamber had walls made of crocheted jute, that allowed the light to filter in. A soothing music was played while you rested inside the chamber.<br>
+          </p>
+          <p>The entrance of the chamber was in the form of a golden ratio spiral. We developed a Auto Cad model of the whole structure to visualise the over all scale and postion of the elements.&nbsp;<br>
+          </p>
+          <h3> Material Used</h3>
+          <p>We found that we had a lot of bamboo and jute in our junkyard. We dug 1 foot deep holes to fix bamboo that was 8 feet long. We used total of 11 such bamboos to form a structure to support our spiral. The walls were made out of crocheted Jute. A curtain kind of structure was formed using the Jute. We also collected leftover paper cutouts from various studios and used them to wirite the 'Existential Questions' inside the chamber.</p>
+          <p> Later we used plastic sheets to cover alternate walls to create a beautiful patter from the natural light. Also the roof was covered to save it from the rain.</p>        
+         
+
+        <hr class="featurette-divider">
+        <h2>Video Process and Installation</h2>
+        <div class="embed-container"><iframe src="https://player.vimeo.com/video/215467315?color=1abc9c&byline=0&portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>             
+
+        <hr class="featurette-divider"> 
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Pranshu Chaudhary 2017</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
