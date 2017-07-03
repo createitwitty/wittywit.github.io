@@ -38,6 +38,11 @@
     padding: 0;
 }
 
+a {
+  color:0d9b7f;
+  text-decoration: none;
+ }
+
 .centered {
 	text-align: center
 }
