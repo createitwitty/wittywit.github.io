@@ -43,6 +43,10 @@ a {
   text-decoration: none;
  }
 
+a:hover{
+border-bottom-color: #0d9b7f;
+}
+
 .centered {
 	text-align: center
 }
