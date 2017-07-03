@@ -292,14 +292,14 @@ figure figcaption {
     z-index: 5;
 }
 figure h3 {
-    color: #fff;
+    color: #0d9b7f;
     font-size: 22px;
     line-height: 1.2;
     font-weight: 700;
     margin-bottom: 10px;
 }
 figure span {
-    color: #e8ecef;
+    color: #333333;
     display: block;
     line-height: 1.2;
 }
@@ -310,9 +310,9 @@ figure a.close-caption {
     height: 44px;
     text-align: center;
     line-height: 44px;
-    font-size: 24px;
-    font-weight: 700;
-    color: #a4a7aa;
+    font-size: 16px;
+    font-weight: 400;
+    color: #e8e8e8;
 }
 figure a.close-caption.hidden {
     display: none
@@ -328,7 +328,7 @@ figure a.close-caption.hidden {
     right: 10px;
 }
 #effect-3 figure {
-    background-color: #a4a7aa
+    background-color: #e8e8e8
 }
 #effect-3 figure figcaption {
     width: 100%;
