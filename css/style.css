@@ -390,6 +390,18 @@ figure a.close-caption.hidden {
     .col-2-2 {
         margin: 0 auto
     }
+    .col-3-2 {
+        margin: 0 auto
+    }
+     .col-4-2 {
+        margin: 0 auto
+    }
+     .col-5-2 {
+        margin: 0 auto
+    }
+     .col-6-2 {
+        margin: 0 auto
+    }
 }
 @media all and (max-width: 660px) { 
     .col-row {
