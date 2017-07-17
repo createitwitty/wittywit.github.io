@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1440 761" style="enable-background:new 0 0 1440 761;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#333333;}
+	.st2{font-family:'Lato-Bold';}
+	.st3{font-size:48px;}
+	.st4{fill:#012B74;}
+	.st5{fill:#01B9F5;}
+	.st6{font-family:'Lato-Regular';}
+	.st7{font-size:24px;}
+	.st8{fill:#1A1A1A;}
+	.st9{font-size:36px;}
+</style>
+<rect x="249.3" y="54.3" class="st0" width="940.5" height="46.7"/>
+<text transform="matrix(1 0 0 1 249.25 89.958)"><tspan x="0" y="0" class="st1 st2 st3">“</tspan><tspan x="18.8" y="0" class="st4 st2 st3">Pay</tspan><tspan x="99.5" y="0" class="st5 st2 st3">tm</tspan><tspan x="158.5" y="0" class="st1 st2 st3">” payment success page UX redesign</tspan></text>
+<rect x="149.1" y="169.5" class="st0" width="1138.2" height="607.5"/>
+<text transform="matrix(1 0 0 1 149.1177 187.2173)"><tspan x="0" y="0" class="st1 st6 st7">Paytm is a Ecommerce platform that offers mobile recharge, utility-bills payment and full marketplace to </tspan><tspan x="0" y="28.8" class="st1 st6 st7">consumers. The main source of traffic for the company is from its Mobile App. With subsequent iterations of </tspan><tspan x="0" y="57.6" class="st1 st6 st7">UX and subtle improvements in UI , Paytm has managed to maintain a clean and stable UX and thus delivers a </tspan><tspan x="0" y="86.4" class="st1 st6 st7">overall pleasent experience to its consumers.</tspan><tspan x="0" y="115.2" class="st1 st6 st7">Here in this project of mine I have tried to address a few UX loopholes that I have observed while using the </tspan><tspan x="0" y="144" class="st1 st6 st7">Paytm mobile App.</tspan><tspan x="391.7" y="216" class="st8 st6 st9">Payment Success Page</tspan><tspan x="0" y="266.4" class="st8 st6 st7">The aim of this project is to identify the problem areas with current payment success page and suggest </tspan><tspan x="0" y="295.2" class="st8 st6 st7">significant improvements, while maintaining the design consistency. I do not intend to redesign the whole </tspan><tspan x="0" y="324" class="st8 st6 st7">flow rather just the final screen of the transaction which shows the status of the transaction.</tspan><tspan x="0" y="374.4" class="st8 st6 st7">The aim of the final transaction screen should be to give the users a satisfactory feedback to the status of </tspan><tspan x="0" y="403.2" class="st8 st6 st7">their transcation. Thus the screen should be clean and intuitive with right elements placed at right position to </tspan><tspan x="0" y="432" class="st8 st6 st7">grab the attention of the user while at the same time in case of a delayed or FAILED transaction tell the user </tspan><tspan x="0" y="460.8" class="st8 st6 st7">of necessary steps to be taken and reassure them that their money is safe, thus building the brand trust.</tspan><tspan x="0" y="518.4" class="st8 st6 st7">The  current Paytm payment Success page presents the useful information hidden among other non-relevant </tspan><tspan x="0" y="547.2" class="st8 st6 st7">elements placed above the fold.</tspan></text>
+</svg>
